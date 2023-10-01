@@ -1,0 +1,27 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "antfu",
+        "Codegen",
+        "commitlint",
+        "consola",
+        "deedful",
+        "imprima",
+        "kysely",
+        "leaderboard",
+        "Leafore",
+        "NGOS",
+        "notivue",
+        "numberpad",
+        "nuxt",
+        "sidebase",
+        "trpc",
+        "unocss",
+        "vueuse"
+    ],
+    "ignoreWords": [],
+    "import": []
+}
